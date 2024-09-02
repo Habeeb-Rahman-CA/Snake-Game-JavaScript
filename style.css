@@ -66,22 +66,3 @@ body{
     border-right: 1px solid #2f2f2f;
 }
 
-@media screen and (max-width : 80px) {
-    .wrapper{
-        width: 90vmin;
-        height: 115vmin;
-    }
-    .game-details{
-        font-size: 16px;
-        padding: 15px 27px;
-    }
-
-    .controls{
-        display: flex;
-    }
-
-    .controls i{
-        padding: 15px 0;
-        font-size: 16px;
-    }
-}
